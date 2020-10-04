@@ -1,2 +1,3 @@
-# SoapBoX
-SoapBoX is a social media app to post your opinions on anything and everything
+# ChitChatClap
+
+ChitChatClap is a react based web app and a clone of messenger made using firebase as a real-time database
