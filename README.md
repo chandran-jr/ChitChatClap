@@ -1,5 +1,8 @@
 <a href="https://messengerclone-c1288.web.app/">ChitChatClap Web App</a>
 
+<img src="chit1.PNG"> <img src="chit2.PNG">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
